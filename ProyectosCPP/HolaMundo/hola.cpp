@@ -3,7 +3,7 @@
 #include <limits>
 //#include <gtk/gtk.h>
 
-//#include <gdk/gdk.h>
+//Comentario 01
 
 using namespace std;
 
